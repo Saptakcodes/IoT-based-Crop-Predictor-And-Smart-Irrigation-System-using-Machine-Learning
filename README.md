@@ -14,19 +14,31 @@ The solution is **fully deployed on Raspberry Pi 5**, uses **IoT sensors interfa
 
 ## 🎥 Demo & Visuals
 
-> 📌 *Add screenshots and demo videos below*
+## 📸 System Screenshots
 
-### 🔹 Web Dashboard
+### 🌐 Web Dashboard Interface
+![Dashboard View](static/images-vidoes/img-1-sid.jpeg)
 
-<!-- ADD DASHBOARD SCREENSHOT HERE -->
+### 📊 Crop Prediction Results
+![Crop Prediction](static/images-vidoes/img-2-sid.jpeg)
 
-### 🔹 Hardware Setup (Arduino + Sensors + Raspberry Pi)
+### 💧 Smart Irrigation Control Panel
+![Irrigation Control](static/images-vidoes/img-3-sid.jpeg)
 
-<!-- ADD HARDWARE IMAGE HERE -->
+### 🔌 Hardware Setup (Sensors + Arduino + Raspberry Pi)
+![Hardware Setup](static/images-vidoes/img-4-sid.jpeg)
 
-### 🔹 Live Working Demo
+### 📡 Sensor Data Monitoring
+![Sensor Monitoring](static/images-vidoes/img-5-sid.jpeg)
 
-<!-- ADD GITHUB / YOUTUBE VIDEO LINK HERE -->
+## 🎥 Project Demonstration Videos
+
+### ▶️ Complete System Working Demo
+[Click to watch video](static/images-vidoes/video-1-sid.mp4)
+
+### ▶️ Smart Irrigation & Crop Prediction Demo
+[Click to watch video](static/images-vidoes/video-2-sid.mp4)
+
 
 ---
 
