@@ -26,7 +26,7 @@ The solution is **fully deployed on Raspberry Pi 5**, uses **IoT sensors interfa
 ![Irrigation Control](static/images-vidoes/img-3-sid.jpeg)
 
 ### 🔌 Hardware Setup (Sensors + Arduino + Raspberry Pi)
-![Hardware Setup](static/images-vidoes/img-4-sid.jpeg)
+![Hardware Setup](static/images-vidoes/img-6-sid.jpeg)
 
 ### 📡Crop Prediction Results
 ![Sensor Monitoring](static/images-vidoes/img-5-sid.jpeg)
