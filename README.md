@@ -19,7 +19,7 @@ The solution is **fully deployed on Raspberry Pi 5**, uses **IoT sensors interfa
 ### 🌐 Web Dashboard Interface
 ![Dashboard View](static/images-vidoes/img-1-sid.jpeg)
 
-### 📊 Crop Prediction Results
+### 📊 Sensor Data Montoring
 ![Crop Prediction](static/images-vidoes/img-2-sid.jpeg)
 
 ### 💧 Smart Irrigation Control Panel
@@ -28,16 +28,16 @@ The solution is **fully deployed on Raspberry Pi 5**, uses **IoT sensors interfa
 ### 🔌 Hardware Setup (Sensors + Arduino + Raspberry Pi)
 ![Hardware Setup](static/images-vidoes/img-4-sid.jpeg)
 
-### 📡 Sensor Data Monitoring
+### 📡Crop Prediction Results
 ![Sensor Monitoring](static/images-vidoes/img-5-sid.jpeg)
 
 ## 🎥 Project Demonstration Videos
 
-### ▶️ Complete System Working Demo
-[Click to watch video](static/images-vidoes/video-1-sid.mp4)
+🔹 **Full Working Video including setup (Model Output & Analysis)**  
+👉 https://drive.google.com/file/d/1PHyTDzvVbkiZKe89s2G2fpd4NUM-jBTX/view?usp=sharing
 
-### ▶️ Smart Irrigation & Crop Prediction Demo
-[Click to watch video](static/images-vidoes/video-2-sid.mp4)
+🔹 **Real-Time Sensor Data Monitoring & Automated Irrigation Execution**  
+👉 https://drive.google.com/file/d/12Pkv_oBy0GW4lDcrV2ZCDQgl8ofrkA6c/view?usp=sharing
 
 
 ---
@@ -230,6 +230,11 @@ The solution is **fully deployed on Raspberry Pi 5**, uses **IoT sensors interfa
 **IoT based Crop Predictor and Water Irrigation System using Machine Learning**
 
 This repository is an implementation aligned with the published research work.
+
+## 🎬 Full Project Demonstration (Google Drive)
+
+📁 **Complete End-to-End Working Demo**  
+👉 [Watch Full Project Demo on Google Drive for our upcoming Published Research Paper](https://drive.google.com/file/d/1p4VLDbA_E4udX0YzGNThwkX9eF8iZPcN/view?usp=sharing)
 
 ---
 
