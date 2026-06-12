@@ -234,8 +234,9 @@ This repository is an implementation aligned with the published research work.
 ## 🎬 Full Project Demonstration (Google Drive)
 
 📁 **Complete End-to-End Working Demo**  
-👉 [Watch Full Project Demo on Google Drive for our upcoming Published Research Paper](https://drive.google.com/file/d/1p4VLDbA_E4udX0YzGNThwkX9eF8iZPcN/view?usp=sharing)
-
+👉 [Watch Full Project Demo on Google Drive for our upcoming Published Research Paper](https://drive.google.com/file/d/1bTDiYJUBN31SJVqVG6P-TkgHrR6M-j4G/view?usp=sharing)
+📁 **IEEE Conference PPT**  
+👉 [Watch Full Project PPT on Google Drive for our upcoming Published Research Paper](https://docs.google.com/presentation/d/1WuVeD8tzjuR9dSaV6uTyQO3Pg7Ab47s4/edit?usp=sharing&ouid=111437597544618282184&rtpof=true&sd=true)
 ---
 
 ## ⭐ Resume Highlights
